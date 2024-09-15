@@ -1,0 +1,68 @@
+body
+{
+    background-color: lightgrey;
+}
+
+
+h1
+{
+    text-align: center;
+    color: dodgerblue;
+}
+
+.div1
+{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 250px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aliceblue;
+    display: inline-block;
+  
+    
+}
+.p1a
+{
+    text-align: center;
+    text-transform:uppercase ;
+    
+    
+}
+.div1a
+{
+   text-align: center;
+    width: 100px;
+    border: 3px solid blue;
+    border-radius: 50%;
+      margin-left: 70px;
+}
+.p1b
+{
+    text-transform:uppercase ;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.p1c
+{
+    text-transform:uppercase ;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.p1d
+{
+    text-align: center;
+    font-size: 20px;
+}
+.p1e
+{
+    text-align: center;
+    color: dodgerblue;
+    border: 2px solid dodgerblue ;
+    ;
+       margin-left: 30px;   
+    margin-right: 30px;
+       font-size: 20px;
+}
